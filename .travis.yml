@@ -1,2 +1,3 @@
 language: nonsense
 script: true
+sudo: required
